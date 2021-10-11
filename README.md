@@ -22,4 +22,8 @@ How Does COVID 19 Disrupt the Airbnb Market?
 -What types of properties have been affected the most?
 
 
+**Data**:
+http://insideairbnb.com/get-the-data.html
+
+Please download monthly detailed listing, calendar, and review data.
 
